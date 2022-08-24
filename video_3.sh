@@ -1,7 +1,9 @@
 #!/bin/bash
 # this is a comment
 # left off af 2:09 timestamp on video
+# track 0 is 0:37
 # track 1 is 3:59 
+sensible-browser https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 sensible-browser https://en.wikipedia.org/wiki/Control_flow
 sensible-browser https://en.wikipedia.org/wiki/Computer_science
 sensible-browser https://en.wikipedia.org/wiki/For_loop#Loop_counters

@@ -1,11 +1,53 @@
 #!/bin/bash
 # this is a comment
-# left off af 2:59 timestamp on video
+# left off af 4:30 timestamp on video
 # track 0 is 0:37
 # track 1 is 3:59 
 # track 2 is 4:03
 # I need like libraries or something anything to sort sets of related data
 COUNTER=0
+sensible-browser https://en.wikipedia.org/wiki/Text_file
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://www.reddit.com/r/linux/comments/1kpzxz/what_are_your_file_naming_conventions/
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Linux_namespaces
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Namespace
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Title
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://c.tenor.com/Qqhtb7KbrGcAAAAC/princess-bride-you-keep-using-that-word.gif # words are hard
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://y.yarn.co/5d778321-5bea-4737-988d-88b9633e0801_text.gif # Kimmi gif
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://www.raspberrypi.org/
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Laptop
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Rhymes_with_Orange
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Suppository
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Repository_\(version_control\)
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Understanding_Media
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Understanding
+printf "%d\n" $COUNTER
+let COUNTER++
 sensible-browser https://dazedprod.blob.core.windows.net/dazed-prod/1250/6/1256762.gif # hackers gif
 printf "%d\n" $COUNTER
 let COUNTER++

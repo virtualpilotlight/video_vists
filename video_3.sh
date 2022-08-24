@@ -3,11 +3,18 @@
 # left off af 2:09 timestamp on video
 # track 0 is 0:37
 # track 1 is 3:59 
+# track 2 is 4:03
+# I need like libraries or something anything to sort sets of related data
+sensible-browser https://tiswww.case.edu/php/chet/bash/bashtop.html
+sensible-browser https://www.gnu.org/software/bash/
+sensible-browser https://www.gnu.org/
 sensible-browser https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 sensible-browser https://en.wikipedia.org/wiki/Control_flow
 sensible-browser https://en.wikipedia.org/wiki/Computer_science
 sensible-browser https://en.wikipedia.org/wiki/For_loop#Loop_counters
 sensible-browser https://en.wikipedia.org/wiki/Comedy
+echo funny stuff
+sensible-browser https://en.wikipedia.org/wiki/Speed_Racer
 sensible-browser https://en.wikipedia.org/wiki/Speed
 sensible-browser https://en.wikipedia.org/wiki/Clock_rate
 sensible-browser https://en.wikipedia.org/wiki/Microprocessor
@@ -21,6 +28,8 @@ sensible-browser https://en.wikipedia.org/wiki/Causality
 sensible-browser https://i.imgur.com/h8KNoLD.gif # correct gif
 sensible-browser https://c.tenor.com/gRjRUZyT4ggAAAAC/fucking-magnets-how-do-they-work-reaction.gif #ICP gif
 sensible-browser https://en.wikipedia.org/wiki/Shebang_\(Unix\)
+sensible-browser https://i.imgur.com/G0yLqBL.gif # house gif 
+sensible-browser https://en.wikipedia.org/wiki/Zebra_\(medicine\)
 sensible-browser https://en.wikipedia.org/wiki/Migraine
 sensible-browser https://en.wikipedia.org/wiki/Synesthesia
 sensible-browser https://en.wikipedia.org/wiki/Johnny_Mnemonic_\(film\)

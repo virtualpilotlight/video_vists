@@ -1,6 +1,7 @@
 #!/bin/bash
 # this is a comment
 # left off af 7:55 timestamp on video
+# 14:56
 # track 0 is 0:37
 # track 1 is 0:06
 # track 2 is 3:59 
@@ -13,10 +14,185 @@ let COUNTER++
 sensible-browser
 printf "%d\n" $COUNTER
 let COUNTER++
-sensible-browser
+sensible-browser https://en.wikipedia.org/wiki/Gender
 printf "%d\n" $COUNTER
 let COUNTER++
-sensible-browser
+sensible-browser https://en.wikipedia.org/wiki/Gathering_of_personally_identifiable_information
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Game_theory
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Chicken_\(game\)
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Red
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Polycythemia
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Bloodletting
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Nerve_block
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Neuropathic_pain
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Icing
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Learning
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://i.gifer.com/AlJG.gif # I'll forkgive you if you forkget
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Fork_bomb
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Fork_\(system_call\)
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/OS-level_virtualization
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Virtualization
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/The_Fool_\(Tarot_card\)
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Software
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wiktionary.org/wiki/noodle
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Diet_Coke
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://www.pillsbury.com/products/toaster-strudel
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://www.carnationbreakfastessentials.com/
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Shame
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://www.cde.ca.gov/ls/nu/sn/cauniversalmeals.asp
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Self-checkout
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Online_grocer
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://www.getcalfresh.org/
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Food_stamp_challenge
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Supplemental_Nutrition_Assistance_Program
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Food_stamp
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Disability_rights_movement
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://media.giphy.com/media/3orif1aUL0cKqPFi2k/giphy.gif #finally
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://www.urbandictionary.com/define.php?term=wack
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Insomnia
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Fatigue_\(disambiguation\)
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Captive_audience
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Microphone
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Full_stop
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Democratic_socialism
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Rent_Is_Too_Damn_High_Party
+printf "%d\n" $COUNTER
+let COUNTER++
+printf "that's my TY Beanie Buddies Crystal, why can't I find her online?"
+sensible-browser https://en.wikipedia.org/wiki/Sock
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Call_to_action_\(marketing\)
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://www.ssa.gov/benefits/ssi/
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Income
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Money
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Third_World
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Value
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/3000
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Affordable_housing
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Garbage_collection_\(computer_science\)
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Garbage_\(band\)
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Waste_Management_\(album\)
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Waste_management
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Captain_Planet_and_the_Planeteers
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Recycling
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Compulsive_hoarding
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Property_management
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Rent
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Cloaca
 printf "%d\n" $COUNTER
 let COUNTER++
 sensible-browser https://www.amazon.com/Girl-Director-How-First-Time-Flat-Broke/dp/1931497001
@@ -364,7 +540,7 @@ let COUNTER++
 sensible-browser https://en.wikipedia.org/wiki/Livestreaming
 printf "%d\n" $COUNTER
 let COUNTER++
-sensible-browser # accompanyment placeholder 
+sensible-browser https://www.youtube.com/playlist?list=PL9FlrfpBs5GGXrrL3lzEG2dxuWpRxK6AX # accompanyment placeholder 
 printf "%d\n" $COUNTER
 let COUNTER++
 sensible-browser # placeholder for video link

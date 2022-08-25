@@ -1,19 +1,7 @@
 #!/bin/bash
 # this is a comment
-# left off af 7:55 timestamp on video
-# 14:56
-# track 0 is 0:37
-# track 1 is 0:06
-# track 2 is 3:59 
-# track 3 is 4:03
 # I need like libraries or something anything to sort sets of related data
 COUNTER=0
-sensible-browser
-printf "%d\n" $COUNTER
-let COUNTER++
-sensible-browser
-printf "%d\n" $COUNTER
-let COUNTER++
 sensible-browser https://en.wikipedia.org/wiki/Gender
 printf "%d\n" $COUNTER
 let COUNTER++
@@ -540,7 +528,9 @@ let COUNTER++
 sensible-browser https://en.wikipedia.org/wiki/Livestreaming
 printf "%d\n" $COUNTER
 let COUNTER++
-sensible-browser https://www.youtube.com/playlist?list=PL9FlrfpBs5GGXrrL3lzEG2dxuWpRxK6AX # accompanyment placeholder 
+sensible-browser https://youtube.com/playlist?list=PL9FlrfpBs5GGXrrL3lzEG2dxuWpRxK6AX # accompanyment placeholder 
 printf "%d\n" $COUNTER
 let COUNTER++
-sensible-browser # placeholder for video link
+sensible-browser https://youtu.be/bEBdXsSG_3E # placeholder for video link
+printf "%d\n" $COUNTER
+let COUNTER++

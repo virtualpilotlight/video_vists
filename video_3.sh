@@ -1,24 +1,147 @@
 #!/bin/bash
 # this is a comment
-# left off af 4:30 timestamp on video
+# left off af 7:55 timestamp on video
 # track 0 is 0:37
-# track 1 is 3:59 
-# track 2 is 4:03
+# track 1 is 0:06
+# track 2 is 3:59 
+# track 3 is 4:03
 # I need like libraries or something anything to sort sets of related data
 COUNTER=0
+sensible-browser
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://www.amazon.com/Girl-Director-How-First-Time-Flat-Broke/dp/1931497001
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://www.merriam-webster.com/words-at-play/affect-vs-effect-usage-difference
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Memory
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://tails.boum.org/doc/first_steps/persistence/index.en.html
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Security-focused_operating_system
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://tails.boum.org/
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/List_of_eponymous_laws
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Ward_Cunningham#Law
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Godwin%27s_law
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Poe\'s_law
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://www.dailymail.co.uk/news/article-2105819/The-ECO-warrior-Princess-Xena-actress-Lucy-Lawless-boards-oil-drilling-ship-Greenpeace-protest.html
+printf "%d\n" $COUNTER
+let COUNTER++
+echo this is more than an individual action thing.
+sensible-browser https://www.un.org/actnow
+echo I already do this wtf else do you want from me!
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Climate_change
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://web.stanford.edu/group/stanfordbirds/text/essays/Monogamy.html 
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://blogs.scientificamerican.com/extinction-countdown/gay-ducks-derail-repopulation-plan/
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://misfitanimals.com/ducks/how-do-ducks-mate/
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://www.ducks.org/conservation/waterfowl-research-science/waterfowl-mating-systems
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Rubber_duck_debugging
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Duck_typing
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://www.reddit.com/user/DoubleDickDude/
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://media.giphy.com/media/VIEy2m9UtWatviq1U6/giphy.gif # spicy
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Film_director
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Dereliction_of_duty
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://64.media.tumblr.com/4320f85752e98a43192aa9f5bd9c1522/c24674667fb29a11-9d/s540x810/bfc0af61d5aff324d12e591b5276ac8dfbe2a57c.gifv # supernatural 
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://c.tenor.com/4DMbSkHRHp0AAAAC/autowash-5th-element.gif # autowash
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/AutoPlay
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Uninstaller
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://www.urbandictionary.com/define.php?term=Flip%20The%20Script
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Picture-in-picture
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Second_screen
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Dot
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Underscore_\(disambiguation\)
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Underscore
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Binary
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Zero-based_numbering
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Microsoft_Windows
+printf "%d\n" $COUNTER
+let COUNTER++
 sensible-browser https://en.wikipedia.org/wiki/Text_file
 printf "%d\n" $COUNTER
 let COUNTER++
 sensible-browser https://www.reddit.com/r/linux/comments/1kpzxz/what_are_your_file_naming_conventions/
 printf "%d\n" $COUNTER
 let COUNTER++
-sensible-browser https://en.wikipedia.org/wiki/Linux_namespaces
-printf "%d\n" $COUNTER
-let COUNTER++
-sensible-browser https://en.wikipedia.org/wiki/Namespace
+sensible-browser https://en.wikipedia.org/wiki/Naming_convention_\(programming\)
 printf "%d\n" $COUNTER
 let COUNTER++
 sensible-browser https://en.wikipedia.org/wiki/Title
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Cut%2C_copy%2C_and_paste
 printf "%d\n" $COUNTER
 let COUNTER++
 sensible-browser https://c.tenor.com/Qqhtb7KbrGcAAAAC/princess-bride-you-keep-using-that-word.gif # words are hard

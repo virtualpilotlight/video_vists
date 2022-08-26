@@ -227,6 +227,6 @@ let COUNTER++
 sensible-browser https://youtu.be/fWrjUti71ps # Cibo Matto Scifi Wasabi live
 printf "%d\n" $COUNTER
 let COUNTER++
-sensible-browser # place holder for video link
+sensible-browser https://youtu.be/d74_bgCWq7Q # place holder for video link
 printf "%d\n" $COUNTER
 let COUNTER++

@@ -9,20 +9,218 @@
 # I need like if / then & loops. 
 
 # time stamp leaves off at 4:21 for first video, 
-# I need to go back and do the links for this section.
+# I need to go back and do the links for seccond section.
+# seccond time stamp leaves off at 6:32
 
-sensible-browser 
-printf "%d\n" $COUNTER
-let COUNTER++
+#sensible-browser 
+#printf "%d\n" $COUNTER
+#let COUNTER++
 
-printf "what's my number?"
-
-read varname
-
-# 
+# printf "what's my number?"
+# read varname
+ 
 # https://www.gnu.org/software/bash/manual/html_node/Arrays.html
 
 COUNTER=0
+
+sensible-browser https://youtu.be/GoZUjxstIZs
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://letigreworld.com/
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Walkie-talkie
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://kingradios.net/walkie-talkie-codes/
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Copy
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Copyleft
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Art
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://www.offensive-security.com/offsec/say-try-harder/
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://miro.medium.com/max/1000/0*qFTabwOQbqE_sqhD.gif # star wars gif
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Speed_of_sound
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Subsonic
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Hearing
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Human_voice
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Frequency_response
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Nielsen_ratings#Sweeps
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://www.sweetwater.com/insync/studio-microphone-buying-guide/
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://www.jbl.com/
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en-us.sennheiser.com/
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://www.shure.com/en-US/products/microphones?lpf[top][types][]=microphones
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Call_to_action
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://cocoandclair.com/ 
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Streaming_media
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Trade_\(disambiguation\)
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://c.tenor.com/gRjRUZyT4ggAAAAC/fucking-magnets-how-do-they-work-reaction.gif # ICP gif
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Audio_power_amplifier
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/USB
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://scratch.mit.edu/
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://youtu.be/mu_jks9IuYc # Le Tigra - Punker Plus
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Cibo_Matto  
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Phone_connector_(audio)
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/XLR_connector
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/RTFM
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/User_guide
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Integrated_circuit
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Analog-to-digital_converter
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Pro_Tools
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Audio_engineer
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Higher_education
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Message
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Microphone
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/CliffsNotes
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/The_Phantom_Tollbooth
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Parting_phrase
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Aloha
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Protocol
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Etiquette
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Platform
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://github.com/virtualpilotlight/video_vists
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/The_Point!
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Marriage
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Lover
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Significant_other
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Spouse
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Spousal_privilege
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Efficiency
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Efficiency_\(disambiguation\)
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Suggestion_box
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Suggestive_question
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Suggestibility
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Suggestion
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://thumbs.gfycat.com/PiercingRightAidi-max-1mb.gif # call me now
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://www.virtualpilotlight.com/
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Navigation
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://en.wikipedia.org/wiki/Table_of_contents
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://www.gnu.org/software/bash/manual/html_node/
+printf "%d\n" $COUNTER
+let COUNTER++
+sensible-browser https://www.gnu.org/software/bash/manual/html_node/Arrays.html
+printf "%d\n" $COUNTER
+let COUNTER++
 sensible-browser https://ryanstutorials.net/bash-scripting-tutorial/bash-input.php
 printf "%d\n" $COUNTER
 let COUNTER++

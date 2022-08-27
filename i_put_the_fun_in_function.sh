@@ -6,14 +6,7 @@
 
 COUNTER=0
 
-link_n_count (link) {
-	sensible-browser link
-	let COUNTER++
-	printf "%d\n" $COUNTER
-}
-
-link_n_count(https://en.wikipedia.org/wiki/YouTube)
-
+echo my birthday is next month, just saying...
 sensible-browser https://www.amazon.com/hz/wishlist/dl/invite/bDUSpsC?ref_=wl_share
 let COUNTER++
 printf "%d\n" $COUNTER

@@ -13,6 +13,6 @@ printf "%d\n" $COUNTER
 sensible-browser https://youtu.be/Xe2rKjw8bww # Nine Inch Nails - Big Man With A Gun
 let COUNTER++
 printf "%d\n" $COUNTER
-sensible-browser # video place holder
+sensible-browser https://youtu.be/lfQvY2UBRH8 # video place holder
 let COUNTER++
 printf "%d\n" $COUNTER

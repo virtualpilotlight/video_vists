@@ -6,29 +6,17 @@
 
 COUNTER=0
 
-function 
+link_n_count (link) {
+	sensible-browser link
+	let COUNTER++
+	printf "%d\n" $COUNTER
+}
 
-sensible-browser 
+link_n_count(https://en.wikipedia.org/wiki/YouTube)
+
+sensible-browser https://www.amazon.com/hz/wishlist/dl/invite/bDUSpsC?ref_=wl_share
 let COUNTER++
 printf "%d\n" $COUNTER
-sensible-browser 
-let COUNTER++
-printf "%d\n" $COUNTER
-sensible-browser 
-let COUNTER++
-printf "%d\n" $COUNTER
-sensible-browser 
-let COUNTER++
-printf "%d\n" $COUNTER
-sensible-browser https://www.gnu.org/software/bash/manual/html_node/Shell-Functions.html
-let COUNTER++
-printf "%d\n" $COUNTER
-sensible-browser https://linuxize.com/post/bash-functions/
-let COUNTER++
-printf "%d\n" $COUNTER
-sensible-browser https://en.wikipedia.org/wiki/Welcome_Back
-let COUNTER++
-printf "%d\n" $COUNTER 
 sensible-browser https://youtu.be/Xe2rKjw8bww # Nine Inch Nails - Big Man With A Gun
 let COUNTER++
 printf "%d\n" $COUNTER

@@ -4,6 +4,8 @@
 #let COUNTER++
 #printf "%d\n" $COUNTER
 
+#so yeah this doesn't work
+
 COUNTER=0
 link='https://www.wikipedia.org/'
 

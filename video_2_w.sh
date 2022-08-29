@@ -1,4 +1,8 @@
 #!/bin/bash
+# this is a comment
+# comments start with a hashtag
+start firefox https://en.wikipedia.org/wiki/Comment_\(computer_programming\)
+echo windows exclusive echo 
 start firefox https://youtu.be/9d9jG4qGbZo
 echo welcome!
 start firefox https://www.urbandictionary.com/define.php?term=welcome%20back%20to%20my%20channel

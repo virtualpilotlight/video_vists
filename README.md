@@ -8,6 +8,8 @@ Use at your own discretion!!!
 
 You must install firefox if you don't already have it installed. (https://www.mozilla.org/en-US/firefox/) is necessary for the viewing of video_vists regardless of your Operating System, please make it your default browser & uninstall chrome for affective viewing of my art. Please add the addon One Tab https://addons.mozilla.org/en-US/firefox/addon/onetab/ & allow for auto play https://support.mozilla.org/en-US/kb/block-autoplay#w_always-allow-or-block-media-autoplay . Other suggested addons are Privacy Badger https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/ & uBlock (https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search). 
 
+###### smart people take notes. 
+
  
 
 video_0.sh
@@ -39,6 +41,9 @@ i_put_the_fun_in_function.sh
 
 hacked.sh
 =========
+
+Want to remix or think you could do it better?
+Fork the repo & show me what you're working it. 
 
 want to make your own?
 use:

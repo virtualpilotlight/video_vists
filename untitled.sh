@@ -21,7 +21,7 @@ sensible-browser https://en.wikipedia.org/wiki/Stalking
 count_fun
 sensible-browser https://en.wikipedia.org/wiki/Personal_boundaries
 count_fun
-sensible-browser https://en.wikipedia.org/wiki/Alarm_(disambiguation)
+sensible-browser https://en.wikipedia.org/wiki/Alarm_\(disambiguation\)
 count_fun
 sensible-browser https://www.youtube.com/channel/UCJy3YofcwT_vPyo-EIlHsZg
 count_fun
@@ -68,6 +68,8 @@ count_fun
 sensible-browser https://www.youtube.com/user/ImogenHeapVEVO
 count_fun
 sensible-browser https://www.youtube.com/user/ScissorSistersVEVO
+count_fun
+sensible-browser https://www.youtube.com/user/AnastaciaVEVO
 count_fun
 sensible-browser https://www.youtube.com/user/SpiceGirlsVEVO
 count_fun

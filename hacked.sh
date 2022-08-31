@@ -60,5 +60,5 @@ sensible-browser https://www.virtualpilotlight.com/ #other tabs
 count_fun
 sensible-browser https://youtu.be/u4FF6MpcsRw # acoompanyment placehode
 count_fun
-sensible-browser # video place holder
+sensible-browser https://youtu.be/Yy3hmPVMRDw # video place holder
 count_fun

@@ -109,5 +109,5 @@ sensible-browser https://media.giphy.com/media/521UkKmXvYZj3gpNqX/giphy.gif # an
 count_fun
 sensible-browser https://youtu.be/dvOXuZwOEvM?t=60 # Accompanyment 0 Emilie Autumn - Fight Like A Girl
 count_fun
-sensible-browser # video place holder
+sensible-browser https://youtu.be/MSFK4V9GuMg # video place holder
 count_fun

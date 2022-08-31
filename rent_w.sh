@@ -109,5 +109,5 @@ start firefox https://media.giphy.com/media/521UkKmXvYZj3gpNqX/giphy.gif # an at
 count_fun
 start firefox https://youtu.be/dvOXuZwOEvM?t=60 # Accompanyment 0 Emilie Autumn - Fight Like A Girl
 count_fun
-start firefox # video place holder
+start firefox https://youtu.be/MSFK4V9GuMg # video place holder
 count_fun
